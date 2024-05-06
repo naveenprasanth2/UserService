@@ -1,12 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-`
-0src/test/java/com/basictest/UserServiceTest.java,c\3\c341096bfbebdcb57dad8f84cce771c705aefd9b
-\
-,src/main/java/com/basictest/UserService.java,f\b\fbf099bf82dd748e8286825e14259683b6dfe587
-`
-0src/main/java/com/basictest/UserServiceImpl.java,1\4\14ad7c482b3f58829fe73da5bd4220347dd03af2
 Å
 Qsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/UserService.java,0\b\0ba260b2d559883cefc9f9d9fc43bec6de8ea094
 Ö
@@ -17,3 +11,9 @@ x
 Hsrc/main/java/com/basictest/com/appdevelopersblog/estore/model/User.java,5\5\55501ad902d3207d1706691911cf417b95bd40df
 X
 (src/test/java/com/basictest/AppTest.java,6\e\6e111fe5ab319395517d7555323cdcd07f8499ff
+á
+Wsrc/main/java/com/basictest/com/appdevelopersblog/estore/repository/UserRepository.java,c\3\c32377c789158abc5177c9a22a6851fea79f546b
+ã
+[src/main/java/com/basictest/com/appdevelopersblog/estore/repository/UserRepositoryImpl.java,e\d\edc46cf66d45f60118686bf468c7ed20b4c6b83a
+ä
+Zsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/UserServiceException.java,4\d\4d13d4a4b4c1b29eea06b4918de889a3a030f45a
