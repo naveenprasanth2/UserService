@@ -17,3 +17,13 @@ Wsrc/main/java/com/basictest/com/appdevelopersblog/estore/repository/UserReposit
 [src/main/java/com/basictest/com/appdevelopersblog/estore/repository/UserRepositoryImpl.java,e\d\edc46cf66d45f60118686bf468c7ed20b4c6b83a
 Š
 Zsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/UserServiceException.java,4\d\4d13d4a4b4c1b29eea06b4918de889a3a030f45a
+‚
+Rsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/EmailService.java,9\8\9873022bb2aebf9210a8a60ac8d820a9082348b0
+†
+Vsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/EmailServiceImpl.java,9\d\9d076aaefb046866f6a3484e077f91d36d4baa10
+z
+Jsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/Test.java,6\c\6c4f1e1e35d044b5882483b8c1133247d0401080
+~
+Nsrc/main/java/com/basictest/com/appdevelopersblog/estore/service/TestEnum.java,e\c\ec9cbf7d5d4b75ccd841b69e2fcfc432f4c769a8
+‘
+asrc/test/java/com/basictest/com/basictest/com/appdevelopersblog/estore/EmailServiceException.java,7\f\7f05c788736d8f590fb61ad4e228858fade2db09
